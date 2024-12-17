@@ -24,7 +24,7 @@
     "eslint": "8.43.0",
     "eslint-config-next": "13.4.7",
     "ethers": "^6.6.2",
-    "graphql": "^16.7.1",
+    "graphql": "^16.8.1",
     "graphql-request": "^6.1.0",
     "i18next": "^23.2.8",
     "i18next-browser-languagedetector": "^7.1.0",
